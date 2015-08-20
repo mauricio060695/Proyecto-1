@@ -1,0 +1,4 @@
+registros/*.cpb
+registros/*.layout
+registros/*.depend
+registros/*.o
