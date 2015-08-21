@@ -1,2 +1,6 @@
 # Proyecto-1
-Sumulacion de Procesador ARM Cortex M0
+Simulacion de Procesador ARM Cortex M0.
+integrantes:
+Diego Fernando Jaramillo. 
+Mauricio Castaño Aguirre.
+Bryan Alexis Villa.
