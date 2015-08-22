@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "registros.h"
+#include "screen.h"
+#include "ALU.h"
 
 int main(void)
 {
-   long int registers[12];
+   unsigned long int registers[12];
 
 	showRegisters(registers, 12);
-    printf("%d",registers);
 
 
 }
